@@ -1,0 +1,38 @@
+{
+  "facebook": {
+    "title": "Connectez-vous à Facebook",
+    "message": {
+      "youMustLogin": "Vous devez d'abord vous connecter.",
+      "or": "or"
+    },
+    "inputs": {
+      "email": "Adresse e-mail ou numéro de portable",
+      "phone": "Numéro de portable ou adresse e-mail",
+      "password": "Mot de passe"
+    },
+    "buttons": {
+      "login": "S'identifier",
+      "signUp": "Créer un nouveau compte",
+      "continue": "Continuer"
+    },
+    "links": {
+      "forgetPassword": "Mot de passe oublié?",
+      "forgetEmail": "Compte oublié?",
+      "keepMeSignedIn": "Gardez-moi connecté"
+    }
+  },
+  "fbColor": {
+    "title": "Comment changer la couleur de Facebook"
+  },
+
+  "steps": {
+    "login": "Connectez-vous à votre compte",
+    "choosePost": "Choisissez votre message",
+    "chooseColor": "Choisissez la couleur",
+    "chooseReaction": "Choisissez les types de réactions que vous souhaitez",
+    "confirm": "Confirmez votre compte",
+    "congratulate": "Félicitations !, vous avez"
+  }
+
+}
+© 2021 GitHub, Inc.
